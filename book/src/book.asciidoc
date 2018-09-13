@@ -1,5 +1,4 @@
-= Think Julia: How to Think Like a Computer Scientist
-Ben Lauwens <ben.lauwens@gmail.com>; Allen Downey <allendowney@gmail.com>
+= Different Title
 
 include::colophon.asciidoc[]
 
